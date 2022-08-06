@@ -1,0 +1,15 @@
+D:\Projects\Job\C#\Asp.net\Code First\Code First\bin\Debug\Code First.exe.config
+D:\Projects\Job\C#\Asp.net\Code First\Code First\bin\Debug\Code First.exe
+D:\Projects\Job\C#\Asp.net\Code First\Code First\bin\Debug\Code First.pdb
+D:\Projects\Job\C#\Asp.net\Code First\Code First\bin\Debug\EntityFramework.dll
+D:\Projects\Job\C#\Asp.net\Code First\Code First\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Job\C#\Asp.net\Code First\Code First\bin\Debug\EntityFramework.xml
+D:\Projects\Job\C#\Asp.net\Code First\Code First\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Job\C#\Asp.net\Code First\Code First\obj\Debug\Code First.csproj.AssemblyReference.cache
+D:\Projects\Job\C#\Asp.net\Code First\Code First\obj\Debug\Code First.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Job\C#\Asp.net\Code First\Code First\obj\Debug\Code First.csproj.CoreCompileInputs.cache
+D:\Projects\Job\C#\Asp.net\Code First\Code First\obj\Debug\Code First.csproj.CopyComplete
+D:\Projects\Job\C#\Asp.net\Code First\Code First\obj\Debug\Code First.exe
+D:\Projects\Job\C#\Asp.net\Code First\Code First\obj\Debug\Code First.pdb
+D:\Projects\Job\C#\Asp.net\Code First\Code First\obj\Debug\Code_First.Migrations.createPost.resources
+D:\Projects\Job\C#\Asp.net\Code First\Code First\obj\Debug\Code First.csproj.GenerateResource.cache
